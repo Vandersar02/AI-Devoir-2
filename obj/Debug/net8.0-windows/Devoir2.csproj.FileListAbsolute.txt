@@ -1,0 +1,34 @@
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\bin\Debug\net8.0-windows\Devoir2.exe
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\bin\Debug\net8.0-windows\Devoir2.deps.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\bin\Debug\net8.0-windows\Devoir2.runtimeconfig.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\bin\Debug\net8.0-windows\Devoir2.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\bin\Debug\net8.0-windows\Devoir2.pdb
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\obj\Debug\net8.0-windows\Devoir2.csproj.GenerateResource.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\obj\Debug\net8.0-windows\Devoir2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\obj\Debug\net8.0-windows\Devoir2.AssemblyInfoInputs.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\obj\Debug\net8.0-windows\Devoir2.AssemblyInfo.cs
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\obj\Debug\net8.0-windows\Devoir2.csproj.CoreCompileInputs.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\obj\Debug\net8.0-windows\Devoir2.sourcelink.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\obj\Debug\net8.0-windows\Devoir2.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\obj\Debug\net8.0-windows\refint\Devoir2.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\obj\Debug\net8.0-windows\Devoir2.pdb
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\obj\Debug\net8.0-windows\Devoir2.genruntimeconfig.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\obj\Debug\net8.0-windows\ref\Devoir2.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir2\obj\Debug\net8.0-windows\Devoir2.formTree.resources
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\bin\Debug\net8.0-windows\Devoir2.exe
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\bin\Debug\net8.0-windows\Devoir2.deps.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\bin\Debug\net8.0-windows\Devoir2.runtimeconfig.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\bin\Debug\net8.0-windows\Devoir2.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\bin\Debug\net8.0-windows\Devoir2.pdb
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\obj\Debug\net8.0-windows\Devoir2.formTree.resources
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\obj\Debug\net8.0-windows\Devoir2.csproj.GenerateResource.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\obj\Debug\net8.0-windows\Devoir2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\obj\Debug\net8.0-windows\Devoir2.AssemblyInfoInputs.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\obj\Debug\net8.0-windows\Devoir2.AssemblyInfo.cs
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\obj\Debug\net8.0-windows\Devoir2.csproj.CoreCompileInputs.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\obj\Debug\net8.0-windows\Devoir2.sourcelink.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\obj\Debug\net8.0-windows\Devoir2.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\obj\Debug\net8.0-windows\refint\Devoir2.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\obj\Debug\net8.0-windows\Devoir2.pdb
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\obj\Debug\net8.0-windows\Devoir2.genruntimeconfig.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir2\Devoir2\obj\Debug\net8.0-windows\ref\Devoir2.dll
